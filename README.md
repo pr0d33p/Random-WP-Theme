@@ -1,2 +1,2 @@
 # Random-WP-Theme
-The simple WP theme.
+A simple and random WP theme.
